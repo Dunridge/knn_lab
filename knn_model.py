@@ -1,12 +1,3 @@
-'''
-We are going to use the famous iris data set for our KNN example. The dataset consists of
-four attributes: sepal-width, sepal-length, petal-width and petal-length. These are the
-attributes of specific types of iris plant. The task is to predict the class to which
-these plants belong. There are three classes in the dataset: Iris-setosa, Iris-versicolor
-and Iris-virginica. Further details of the dataset are available here:
-https://archive.ics.uci.edu/ml/datasets/Iris
-'''
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
